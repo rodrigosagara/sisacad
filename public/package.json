@@ -1,0 +1,23 @@
+{
+  "name": "sisacad",
+  "version": "1.0.0",
+  "description": "projeto de sistema academico que exibe turmas e alunos, teste de admissao",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/rodrigosagara/sisacad.git"
+  },
+  "author": "rodrigo santos <rodrigo.sagara8@gmail.com>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/rodrigosagara/sisacad/issues"
+  },
+  "homepage": "https://github.com/rodrigosagara/sisacad#readme",
+  "dependencies": {
+    "jquery": "^3.4.1",
+    "materialize-css": "~0.100.2"
+  }
+}
